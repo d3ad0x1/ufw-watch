@@ -30,8 +30,8 @@ sudo ./ufw-watch.sh
 ## 🖥️ Example output
 
 ```bash
-Time: Sep  2 10:15:23 | Action: [31mUFW BLOCK[0m | Interface: enp3s0   | Source: 10.0.113.45   | Destination: 192.168.1.10   | Port: 22
-Time: Sep  2 10:16:05 | Action: [32mUFW ALLOW[0m | Interface: enp3s0   | Source: 160.51.100.77  | Destination: 192.168.1.10   | Port: 443
+Time: Sep  2 10:15:23 | Action: [UFW BLOCK] | Interface: enp3s0   | Source: 10.0.113.45   | Destination: 192.168.1.10   | Port: 22
+Time: Sep  2 10:16:05 | Action: [UFW ALLOW] | Interface: enp3s0   | Source: 160.51.100.77  | Destination: 192.168.1.10   | Port: 443
 ```
 
 ## 📄 License
