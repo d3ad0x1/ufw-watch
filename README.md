@@ -16,7 +16,7 @@ A simple shell script for monitoring **UFW** logs with colored output.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOURNAME/ufw-watch.git
+git clone https://github.com/d3ad0x1/ufw-watch.git
 cd ufw-watch
 chmod +x ufw-watch.sh
 ```
